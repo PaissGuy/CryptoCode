@@ -1,0 +1,22 @@
+
+
+.CryptoCoin-Button{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-content: center;
+    margin-top: 2.5em;
+    background-color: rgb(145, 100, 187);
+    margin-top: 20px;
+}
+
+.CryptoCoin button{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(62, 50, 73);
+    color: darkgray;
+    border-radius: 50%;
+    text-align: center;
+}
